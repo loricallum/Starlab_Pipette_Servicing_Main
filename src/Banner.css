@@ -3,14 +3,14 @@
     right;
   background-repeat: no-repeat;
   background-size: 500px 500px;
-  height: 475px;
+  height: 412px;
   position: relative;
 }
 
 .banner__info {
   background-color: rgb(33, 6, 151);
   color: white;
-  padding-top: 25vh;
+  padding-top: 25px;
   padding-left: 50px;
   padding-right: 50px;
   padding-bottom: 40px;

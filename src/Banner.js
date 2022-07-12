@@ -22,12 +22,16 @@ function Banner() {
         </Button>
       </div>
       <div className="banner__info">
-        <h1>Our Pipette service</h1>
-        <h5>
+        <h1>Our Pipette Servicing</h1>
+        <br></br>
+
+        <h4>
           Our team of fully-trained technicians can service and calibrate ALL
           brands of pipette: single and multi-channel, manual and electronic,
           repeaters, pipette controllers and bottle-top dispensers.
-        </h5>
+        </h4>
+        <br></br>
+
         <Button onClick={() => history.push("/search")} variant="outlined">
           Explore Options
         </Button>
